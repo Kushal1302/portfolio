@@ -125,7 +125,7 @@ body{
 .writing-section{
     text-transform:uppercase;
     & > h1  , p{
-        color: white;
+        color: #fff;
         font-weight: bolder;
         line-height: 20px;
     }
